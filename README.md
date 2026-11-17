@@ -4,6 +4,14 @@ This repository is a **fork of [genomeindiaconsortium/Flagship-Paper-Codes](http
 
 Authorship belongs to the original contributors. Ankit Mukherjee's broader GenomeIndia contributions are described in the [research CV](https://github.com/AnkitMukherji/CV); hosting this fork does not imply sole authorship of the pipeline or every module.
 
+## Folder guides
+
+- [DRAGEN joint-genotyping job wrappers](DRAGEN_pipeline/README.md)
+- [Phasing, imputation and evaluation](Imputation/README.md)
+- [GenomeIndia figure scripts](Plotting_codes/README.md)
+- [VEP and loss-of-function annotation](Variant_annotation/README.md)
+- [Variant prioritization and ClinVar summaries](pdMM_LoF_ACMG_Clinvar/README.md)
+
 ## Navigate the methods
 
 | Directory | Analysis role |
